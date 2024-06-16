@@ -14,13 +14,63 @@
 
 ## Steps
 
-✨ LAB NAME: Small Network Connectivity using routers.
+✨ LAB NAME: Azure Detection Lab using Microsoft Sentinal
 
-✨ OBJECTIVE: The aim is to configure a simple network to allow connectivity for sending and receiving packets.
+✨ OBJECTIVE: The aim is to configure and deploy Azure resources using sentinal to extract and observe log data into one centralized location.
 
-✨ THEORY: A router will ensure the security of data and provides access to the internet.
-
-
+✨ THEORY: Connectors will be used as pre-built methods to connect the API calls.
 
 
-*Ref 1: Both Endpoints with a class C IP configuration receive ping packets.
+
+
+*Ref 1: A resource group and a virtual machine were deployed
+<img width="1266" alt="azure vm build 1" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/e082cf0d-6926-4ca8-bbfc-fd4f189dcb65">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
