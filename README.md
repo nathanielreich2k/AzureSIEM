@@ -1,15 +1,15 @@
 # Azure Detection Lab using Microsoft Sentinal 📜📊
 
 ## Objective
-✨ To construct and configure a basic network topology utilizing routers and VLANs in Cisco Packet Tracer, employing Command Line Interface (CLI) commands to implement VLAN segmentation and inter-VLAN routing. The objective is to provide hands-on experience in creating a simple network infrastructure and understanding the fundamentals of network communication for small to medium-sized businesses.
+✨ The Microsoft Azure Detection Lab using Sentinel is a dedicated environment designed for cybersecurity professionals to enhance their threat detection and response skills within Azure environments. This practical aims to configure and deploy Azure resources such as Log Analytics Workspace, Virtual Machines, and Azure Sentinel, with custom analytic rules to detect Microsoft Security Events.
 
 
 ### Skills Learned
 
-- Ability to send ICMP packets to another device on the network.
-- Understanding of LAN and the assignment of static and dynamic IP assignment. 
-- Configuration of IP, subnet, and gateway addresses for endpoints.
-- Ability to segment vlans for each department.
+- Deploying Azure Resources such as Log Analytics Workspace, Virtual Machines, and Azure Sentinel.
+- Configuring data connectors to allow data to be brought into sentinal for analysis.
+- Understanding of a new Azure language (KQL) to query logs.
+- Searching log data and creating custom rules for data analysis.
 
 
 ## Steps
