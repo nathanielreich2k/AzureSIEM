@@ -43,8 +43,12 @@ With the public IP, we can connect to the virtual machine and search in the even
 
 *Ref 5: 
 Using the search function we can look for a random ID: 4624. Upon clicking information can be brought up and displays a successful login attempt. 
-<img width="997" alt="event view 5" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/493e7b94-1e27-4509-a86d-3307700db16f">
+<img width="842" alt="event view 5" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/19ad9a53-5ff2-47f1-aecf-04b3b942194b">
 
+*Ref 6: 
+Going back into the Sentinal logs we can use an exclusive language known as KQL to set a custom analytic rule. As shown below, to make our search easier we can include the time of login, node name, and generation dates. 
+<img width="664" alt="query 6+" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/028f2a80-a4d4-4683-8659-98086919501e">
+<img width="811" alt="query 6" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/65f21642-fd91-4662-87fa-e995de532565">
 
 
 
