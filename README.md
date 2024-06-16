@@ -42,7 +42,8 @@ With the public IP, we can connect to the virtual machine and search in the even
 <img width="999" alt="rdp 4" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/2cb2be4c-2317-4066-aabc-55c9b979715d">
 
 *Ref 5: 
-Using the search function we can look for a random ID: 4624. Upon clicking information can be brought up and displays a successful login attempt. 
+Using the search function we can look for a random ID: 4624. 
+Upon clicking information can be brought up and displays a successful login attempt. 
 <img width="842" alt="event view 5" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/19ad9a53-5ff2-47f1-aecf-04b3b942194b">
 
 *Ref 6: 
