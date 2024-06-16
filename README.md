@@ -37,9 +37,13 @@ To prevent unauthorized login, network security groups (NSG) are modified ensuri
 Next, Sentinal is deployed into our resources along with a new data creation rule to bring in log data from our Windows 10 VM.
 <img width="975" alt="azure sentinal 3" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/34174970-d180-4120-b140-48f09794887b">
 
+*Ref 4: 
+With the public IP, we can connect to the virtual machine and search in the event viewer.
+<img width="999" alt="rdp 4" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/2cb2be4c-2317-4066-aabc-55c9b979715d">
 
-
-
+*Ref 5: 
+Using the search function we can look for a random ID: 4624. Upon clicking information can be brought up and displays a successful login attempt. 
+<img width="997" alt="event view 5" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/493e7b94-1e27-4509-a86d-3307700db16f">
 
 
 
