@@ -27,8 +27,13 @@
 <img width="1266" alt="azure vm build 1" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/e082cf0d-6926-4ca8-bbfc-fd4f189dcb65">
 
 
+*Ref 2: To prevent unauthorized login, network security groups (NSG) are modified ensuring inbound facing ports are configured.
+<img width="1057" alt="azure nsg 2" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/0bf92b03-bb87-4804-ad8f-24c47d261214">
 
+✨ The security feature "just in time" provides necessary time-based restrictions while also ensuring the principle of least privilege. 
 
+*Ref 3: Next, Sentinal is deployed into our resources along with a new data creation rule to bring in log data from our Windows 10 VM.
+<img width="975" alt="azure sentinal 3" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/34174970-d180-4120-b140-48f09794887b">
 
 
 
