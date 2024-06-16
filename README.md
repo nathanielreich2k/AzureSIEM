@@ -38,7 +38,7 @@ Next, Sentinal is deployed into our resources along with a new data creation rul
 <img width="975" alt="azure sentinal 3" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/34174970-d180-4120-b140-48f09794887b">
 
 *Ref 4: 
-With the public IP, we can connect to the virtual machine and search in the event viewer.
+With the public IP, we can connect to the virtual machine and search in the event viewer. For a large company, multiple user accounts could be accessed and modified in this way.
 <img width="999" alt="rdp 4" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/2cb2be4c-2317-4066-aabc-55c9b979715d">
 
 *Ref 5: 
