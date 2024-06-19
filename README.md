@@ -57,8 +57,9 @@ Going back into the Sentinal logs we can use an exclusive language known as KQL 
 <img width="811" alt="query 6" src="https://github.com/nathanielreich2k/AzureSIEM/assets/155709615/65f21642-fd91-4662-87fa-e995de532565">
 
 
-
-
+## Conclusion
+- After creating our analytical rule we can now observe details taken from our virtual machine endpoint all in one centralized location for easy viewing.
+- With multiple endpoints, this would make it easier to aggregate the data for review and detection of anomalies. 
 
 
 
